@@ -147,20 +147,6 @@ def main():
             print("\nInvalid choice. Please select 1, 2, or 3.")
 
 
-# Start program
-if __name__ == "__main__":
-    main()
-```
-
-### Install the required library
-
-Open Command Prompt/Terminal inside the project folder and run:
-
-```bash
-pip install textblob
-```
-
-### Run the project
 
 ```bash
 python sentiment_analyzer.py
