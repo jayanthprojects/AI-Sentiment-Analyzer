@@ -148,6 +148,3 @@ def main():
 
 
 
-```bash
-python sentiment_analyzer.py
-```  
